@@ -1,7 +1,6 @@
 # Query a Digital Music Store Chinook Database
 
 ## Introduction
-
 In this project, I will query the **Chinook Database**.
 The Chinook Database holds information about a _music store_.
 
